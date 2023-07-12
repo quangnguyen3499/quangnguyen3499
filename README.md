@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangnguyen3499&show_icons=true&locale=en&theme=vue-dark" alt="quangnguyen3499" />
+  <img width="450em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangnguyen3499&show_icons=true&locale=en&theme=vue-dark" alt="quangnguyen3499" />
 </p>
