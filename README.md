@@ -32,4 +32,5 @@
 
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=quangnguyen3499&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="quangnguyen3499" />
 
-&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangnguyen3499&show_icons=true&locale=en&theme=vue-dark" alt="quangnguyen3499" card_width=320 />
+<br>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangnguyen3499&show_icons=true&locale=en&theme=vue-dark" alt="quangnguyen3499" /></p>
