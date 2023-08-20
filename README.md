@@ -2,9 +2,6 @@
 <h3 align="center">A passion Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/quangnguyen3499/quangnguyen3499/assets/50656828/9ba31f53-e202-4ee0-a0a1-357f784b9747">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quangnguyen3499&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
 - 🔭 I’m currently working on **Software Application**
 
 - 🌱 I’m currently learning **DevOps**
